@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Temporary files
+temp_diag.jpg
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
